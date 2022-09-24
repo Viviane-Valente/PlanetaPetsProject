@@ -33,9 +33,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-De acordo com uma pesquisa pelo Ministério do Turismo brasileiro, 44,4% dos brasileiros nunca viajaram a turismo pelo Brasil. A outra metade de 49,4% viaja com a periodicidade de uma vez por ano. Os felizardos no caso (13,8%) são aqueles que disseram que viajam uma vez a cada seis meses. Agora se você se assustou com os números nacionais, os de viagens internacionais são ainda mais alarmantes.
-  
-Como podemos observar, há muitas pessoas que nem se quer pisaram em um aeroporto na sua vida, então pensamos em ajuda-las com um site que dê todo o apoio para elas dar seus primeiros passos nesse universo das viagens e também para aqueles que já viajar pelo mundo! 
+. 
 
 ![Descrição do projeto](https://animalhaven.org/wp-content/uploads/2015/12/dog-and-cat-banner-2.png)
 </p>
@@ -61,7 +59,7 @@ Como podemos observar, há muitas pessoas que nem se quer pisaram em um aeroport
 
 ## Licença
 
-Sua Viagem is [GLP-3.0 licensed](./LICENSE.md).
+Planeta Pets is [GLP-3.0 licensed](./LICENSE.md).
 
 ## Acesso ao projeto
 
