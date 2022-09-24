@@ -1,0 +1,10 @@
+Hoje foi apresentado pela dupla de design os aspectos gerais de fontes e paleta de cores, já a dupla de back apresentou os prototipos desenhados e as funcionalidades. Para nosso próximo encontro:
+
+— Design:
+🔹 Paleta de cor definida para ser usada no site.
+🔸 Fonte(s) definidas para o site.
+🔹 Logo do site.
+
+— Back:
+🔹 Orgaização das plataformas de acompanhamento do projeto: Classroom, GitHub e Trello
+🔸Tela Inicial encaminhada.

@@ -1,0 +1,10 @@
+Hoje foi apresentado pela dupla de design o protótipo da tela inicial. Para nosso próximo encontro:
+
+— Design:
+🔹 Paleta de cor para ser usada no site.
+🔸 Fonte escolhida para o site.
+(se a dupla não escolher por conta própria, pode levar as opções para a reunião e na mesma conversaremos sobre).
+
+
+— Back:
+🔹 Pensar e lista as funcionalidades do site.

@@ -1,0 +1,16 @@
+Tópicos definidos durante o encontro:
+
+🔸 Nome da Equipe/Empresa - Businance
+🔹 Área de Desenvolvimento - Front-end web development
+🔸 Propostas;
+
+- Um site com objetivo de auxiliar no aprendizado da língua inglesa através de recursos musicais.
+- Um site para auxiliar pessoas que estão começando um pequeno negócio na área do IFCE.
+- Um site informativo com objetivo de auxiliar estudantes do ensino médio a escolher seu curso e faculdade para o ensino superior.
+- Um site e uma campanha de adoção de animais que estão dentro do IFCE.
+
+🔸 Integrantes e Funções;
+- Elenilton - Design/programação
+- Wanyo - Design/programação
+- Micael - Programação/back-end
+- Jamily - Programação/back-end

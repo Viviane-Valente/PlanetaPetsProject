@@ -1,0 +1,6 @@
+A proposta Um site e uma campanha de adoção de animais do IFCE foi debatida e aceita para o desenvolvimento.  De acordo com o nosso calendário, próxima quinta-feira temos nossa reunião marcada no mesmo horário (14h), na mesma a dupla de Design deve apresentar os protótipos iniciais do projeto e debateremos sobre na nossa reunião.
+
+🔸 De hoje até quinta-feira, definiremos:
+- Nome da Equipe/Empresa;
+- Mome do nosso produto/site;
+- Criar uma conta profissional no GitHub para a equipe (Envolve e-mail da “empresa”).

@@ -1,9 +1,0 @@
-Tópicos abordados durante a reunião:
-
-Na reunião de hoje foi apresentado as ideias de design iniciais pela a dupla responsável. 
-Discutimos e decidimos os seguintes tópicos;
-
-📌 Nome da Equipe: The Last Ones
-📌 Nome da Empresa: IDEV - Idea Developer
-📌 Nome do nosso produto/site: Planeta Pets
-📌 A criação de uma conta profissional no GitHub para a equipe 
