@@ -76,8 +76,9 @@ Após baixar o projeto, você pode abrir com o `Visual Studio Code`. Para isso, 
 
 O `Visual Studio Code` deve carregar o projeto, aguarde até finalizar. Ao finalizar, você pode executar o site. 🏆 
 
-<!--## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim) |  [<img src="https://avatars.githubusercontent.com/u/37315196?v=4" width=115><br><sub>Guilherme Rossin</sub>](https://github.com/GuilhermeRossin) | [<img src="https://avatars.githubusercontent.com/u/21059035?v=4" width=115><br><sub>Erica Muniz</sub>](https://github.com/Erica08muniz) |-->
+## Desenvolvedores
+| [<img src="https://avatars.githubusercontent.com/u/114267498?v=4" width=115><br><sub>Micael Rodrigues</sub>](https://github.com/micael-rodrigues) |  [<img src="https://avatars.githubusercontent.com/u/81538817?v=4" width=115><br><sub>Jamily Santiago</sub>](https://github.com/jamily09) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
 
 ![imagem](https://www.freewebheaders.com/wp-content/gallery/dogs/cocker-spaniel-puppy-kissing-little-red-kitten-web-header.jpg)
