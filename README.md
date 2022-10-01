@@ -33,7 +33,9 @@
 ## Descrição do projeto 
 
 <p align="justify">
-. 
+Quem não ama cachorros e gatos? Um animalzinho em casa é uma amizade para vida toda! A convivência com pets traz inúmeros benefícios para as pessoas, como: vinculo afetivo, mais alegria em casa e união na família. Mas o maior benefício que a adoção de animais pode nos trazer é a luta contra o abandono. Segundo a Organização Mundial da Saúde (OMS), somente no Brasil, cerca de 30 milhões de animais estão em situação de abandono, sendo aproximadamente 20 milhões de cães e 10 milhões de gatos. Então, nos da Planeta Pets Project estamos aqui para combater o abandono de animais e ajudar você a encontrar um amigo para toda vida.
+
+Adoção é uma escolha de amor. 
 
 ![Descrição do projeto](https://animalhaven.org/wp-content/uploads/2015/12/dog-and-cat-banner-2.png)
 </p>
