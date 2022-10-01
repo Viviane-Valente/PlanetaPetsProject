@@ -55,7 +55,7 @@ Adoção é uma escolha de amor.
 
 ## Ferramentas utilizadas
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,vscode,figma)](https://github.com/idev-company/PlanetaPetsProject)
 
 ###
 
