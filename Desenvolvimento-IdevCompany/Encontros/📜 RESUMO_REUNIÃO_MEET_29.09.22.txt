@@ -1,0 +1,15 @@
+Hoje foi realizado uma recapitulação do que foi desenvolvido até agora no projeto. 
+Para nosso próximo encontro:
+
+— A dupla de Design:
+🔹 Paleta de cor definida para ser usada no site.
+🔸 Fonte(s) definidas para o site.
+🔹 Logo do site.
+
+— A dupla de Back:
+🔹 Orgaização das plataformas de acompanhamento do projeto;
+Classroom
+GitHub e 
+Trello
+
+🔸Tela Inicial.
