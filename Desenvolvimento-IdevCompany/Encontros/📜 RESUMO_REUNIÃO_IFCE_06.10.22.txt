@@ -1,0 +1,16 @@
+Hoje foi realizado uma recapitulação do que foi desenvolvido até agora no projeto e apresentado o que foi definido na última reunião:
+
+— A dupla de Design:
+🔹 Paleta de cor definida para ser usada no site.
+🔸 Fonte(s) definidas para o site.
+🔹 Logo do site.
+
+— A dupla de Back:
+🔹 Orgaização das plataformas de acompanhamento do projeto;
+Classroom
+GitHub e 
+Trello
+🔸Tela Inicial .
+
+
+* Aqui encerramos a primeira etapa da disciplina, notas da mesma já está disponível no Qacadêmico, e também a etapa de organização, a partir da próxima Reunião, entramos na etapa de desenvolvimento oficialmente.
