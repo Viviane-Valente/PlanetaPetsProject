@@ -1,86 +1,70 @@
-<h1 align="center">
-  Bem Vindo(a) ao Planeta Pets!
-</h1>
+# Getting Started with Create React App
 
-<p align="center">
-   <img src="https://blueoakschurch.org/wp-content/uploads/adoptapet.jpeg" />
-</p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<hr>
+## Available Scripts
 
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
-</p>
+In the project directory, you can run:
 
-### Tópicos 
+### `npm start`
 
-- [Descrição do projeto](#descrição-do-projeto)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-- [Funcionalidades](#funcionalidades)
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+### `npm test`
 
-- [Licença](#licença)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- [Acesso ao projeto](#acesso-ao-projeto)
+### `npm run build`
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- [Desenvolvedores](#desenvolvedores)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<!--- [Desenvolvedores](#desenvolvedores)-->
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Descrição do projeto 
+### `npm run eject`
 
-<p align="justify">
-Quem não ama cachorros e gatos? Um animalzinho em casa é uma amizade para vida toda! A convivência com pets traz inúmeros benefícios para as pessoas, como: vinculo afetivo, mais alegria em casa e união na família. Mas o maior benefício que a adoção de animais pode nos trazer é a luta contra o abandono. Segundo a Organização Mundial da Saúde (OMS), somente no Brasil, cerca de 30 milhões de animais estão em situação de abandono, sendo aproximadamente 20 milhões de cães e 10 milhões de gatos. Então, nos da Planeta Pets Project estamos aqui para combater o abandono de animais e ajudar você a encontrar um amigo para toda vida.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Adoção é uma escolha de amor. 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-![Descrição do projeto](https://animalhaven.org/wp-content/uploads/2015/12/dog-and-cat-banner-2.png)
-</p>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Funcionalidades
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos animais para doação.
+## Learn More
 
-:heavy_check_mark: `Funcionalidade 2:` Sistema para a adoção dos animais.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-:heavy_check_mark: `Funcionalidade 3:` Sistema de login/cadastro dos usuários.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-:heavy_check_mark: `Funcionalidade 4:` Serviço de personalização de perfil.
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-###
+### Analyzing the Bundle Size
 
-## Ferramentas utilizadas
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,vscode,figma)](https://github.com/idev-company/PlanetaPetsProject)
+### Making a Progressive Web App
 
-###
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## Licença
+### Advanced Configuration
 
-Planeta Pets is [GLP-3.0 licensed](./LICENSE.md).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-## Acesso ao projeto
+### Deployment
 
-Você pode [acessar o código fonte do projeto](https://github.com/idev-company/SuaViagemProject) ou [baixá-lo](https://github.com/idev-company/SuaViagemProject/archive/refs/heads/main.zip).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### `npm run build` fails to minify
 
-## Abrir e rodar o projeto
-
-Após baixar o projeto, você pode abrir com o `Visual Studio Code`. Para isso, na tela de inicio clique em:
-
-- `Open a folder` (ou alguma opção similar);
-- Procure o local onde a pasta do projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Por fim clique em `OK`.
-
-O `Visual Studio Code` deve carregar o projeto, aguarde até finalizar. Ao finalizar, você pode executar o site. 🏆 
-
-## Desenvolvedores
-| [<img src="https://avatars.githubusercontent.com/u/114267498?v=4" width=115><br><sub>Micael Rodrigues</sub>](https://github.com/micael-rodrigues) |  [<img src="https://avatars.githubusercontent.com/u/81538817?v=4" width=115><br><sub>Jamily Santiago</sub>](https://github.com/jamilysantiago) |  [<img src="https://avatars.githubusercontent.com/u/81435303?v=4" width=115><br><sub>Viviane Magalhães</sub>](https://github.com/Viviane-Valente) | [<img src="https://avatars.githubusercontent.com/u/89037582?v=4" width=115><br><sub>José Eleilton</sub>](https://github.com/nilton404) | [<img src="https://avatars.githubusercontent.com/u/112650636?v=4" width=115><br><sub>Wanyo Castelo</sub>](https://github.com/WanyoPR)
-|:---: | :---: | :---: | :---: | :---: 
-
-
-<br />![imagem](https://www.freewebheaders.com/wp-content/gallery/dogs/cocker-spaniel-puppy-kissing-little-red-kitten-web-header.jpg)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
