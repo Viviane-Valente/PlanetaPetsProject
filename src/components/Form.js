@@ -7,7 +7,6 @@ class LoginForm extends React.Component{
         <div id="loginform">
           <FormHeader title="Login" />
           <Form />
-          <OtherMethods />
         </div>
       )
     }
@@ -20,9 +19,9 @@ class LoginForm extends React.Component{
   
   const Form = props => (
      <div>
-       <FormInput description="Username" placeholder="Enter your username" type="text" />
-       <FormInput description="Password" placeholder="Enter your password" type="password"/>
-       <FormButton title="Log in"/>
+       <FormInput description="Username" placeholder="Coloque seu username" type="text" />
+       <FormInput description="Password" placeholder="Coloque sua Senha" type="password"/>
+       <FormButton title="Entrar"/>
      </div>
   );
   
@@ -39,28 +38,7 @@ class LoginForm extends React.Component{
     </div>  
   );
   
-  const OtherMethods = props => (
-    <div id="alternativeLogin">
-      <label>Or sign in with:</label>
-      <div id="iconGroup">
-        <Facebook />
-        <Twitter />
-        <Google />
-      </div>
-    </div>
-  );
-  
-  const Facebook = props => (
-    <a href="#" id="facebookIcon"></a>
-  );
-  
-  const Twitter = props => (
-    <a href="#" id="twitterIcon"></a>
-  );
-  
-  const Google = props => (
-    <a href="#" id="googleIcon"></a>
-  );
+
   
 
 

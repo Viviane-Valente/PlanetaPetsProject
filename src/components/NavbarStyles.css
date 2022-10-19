@@ -15,6 +15,10 @@
     transition: .5s;
 }
 
+.icon {
+    width: 10%;
+}
+
 .nav-menu {
     display: flex;
 }
@@ -31,6 +35,8 @@
 .hamburger {
     display: none;
 }
+
+
 
 @media screen and (max-width:1240px) {
     .hamburger {
@@ -64,6 +70,7 @@
         font-size: 2rem;
     }
 }
+
 
 
 

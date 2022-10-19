@@ -1,8 +1,14 @@
 .footer {
     width: 100%;
-    padding: 6rem 0;
+    padding: 0rem 0;
     background: rgba(0,0,0,.8);
 }
+
+
+.logo {
+    width: 50%;
+}
+
 
 .footer-container {
     max-width: 1140px;
@@ -18,7 +24,7 @@
     display: flex;
     flex-direction: column;
     padding: 1rem;
-}
+} 
 
 .footer .right {
     height: 100%;
@@ -61,7 +67,6 @@
         margin: auto;
     }
 }
-
 
 
 
