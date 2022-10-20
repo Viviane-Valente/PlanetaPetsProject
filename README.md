@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Bem Vindo(a) a Sua Viagem!
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![logo_GlicoCare](https://png.pngtree.com/thumb_back/fw800/background/20190220/ourmid/pngtree-summer-summer-tour-travel-abroad-european-tour-image_8752.jpg)
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" />
+</p>
 
-### `npm start`
+### Tópicos 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Descrição do projeto](#descrição-do-projeto)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Funcionalidades](#funcionalidades)
 
-### `npm test`
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Licença](#licença)
 
-### `npm run build`
+- [Acesso ao projeto](#acesso-ao-projeto)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Desenvolvedores](#desenvolvedores)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Descrição do projeto 
 
-### `npm run eject`
+<p align="justify">
+De acordo com uma pesquisa pelo Ministério do Turismo brasileiro, 44,4% dos brasileiros nunca viajaram a turismo pelo Brasil. A outra metade de 49,4% viaja com a periodicidade de uma vez por ano. Os felizardos no caso (13,8%) são aqueles que disseram que viajam uma vez a cada seis meses. Agora se você se assustou com os números nacionais, os de viagens internacionais são ainda mais alarmantes.
+  
+Como podemos observar, há muitas pessoas que nem se quer pisaram em um aeroporto na sua vida, então pensamos em ajuda-las com um site que dê todo o apoio para elas dar seus primeiros passos nesse universo das viagens e também para aqueles que já viajar pelo mundo! 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Descrição do projeto](https://menezesturismo.com.br/wp-content/uploads/2018/10/banner-c.jpg)
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Funcionalidades
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+:heavy_check_mark: `Funcionalidade 1:` Realizar cadastro dos usuários, podendo pedir solicitação para publicar.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+:heavy_check_mark: `Funcionalidade 2:` Interação entre os usuários através de comentários.
 
-## Learn More
+:heavy_check_mark: `Funcionalidade 3:` Sistema de FeedBack por curtidas nos posts.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+:heavy_check_mark: `Funcionalidade 4:` Serviço de publicidade para empresas de viagens.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+###
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Ferramentas utilizadas
 
-### Analyzing the Bundle Size
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,vscode)](https://skills.thijs.gg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+###
 
-### Making a Progressive Web App
+## Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Sua Viagem is [GLP-3.0 licensed](./LICENSE.md).
 
-### Advanced Configuration
+## Acesso ao projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Você pode [acessar o código fonte do projeto](https://github.com/idev-company/SuaViagemProject) ou [baixá-lo](https://github.com/idev-company/SuaViagemProject/archive/refs/heads/main.zip).
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Abrir e rodar o projeto
 
-### `npm run build` fails to minify
+Após baixar o projeto, você pode abrir com o `Visual Studio Code`. Para isso, na tela de inicio clique em:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- `Open a folder` (ou alguma opção similar);
+- Procure o local onde a pasta do projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
+- Por fim clique em `OK`.
+
+O `Visual Studio Code` deve carregar o projeto, aguarde até finalizar. Ao finalizar, você pode executar o site. 🏆 
+
+## Desenvolvedores
+| [<img src="https://avatars.githubusercontent.com/u/114267498?v=4" width=115><br><sub>Micael Rodrigues</sub>](https://github.com/micael-rodrigues) |  [<img src="https://avatars.githubusercontent.com/u/81538817?v=4" width=115><br><sub>Jamily Santiago</sub>](https://github.com/jamilysantiago) 
+|:---: | :---: 
