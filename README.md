@@ -1,8 +1,8 @@
 <h1 align="center">
-  Bem Vindo(a) a Sua Viagem!
+  Bem Vindo(a) ao Planeta Pets!
 </h1>
 
-![logo_GlicoCare](https://png.pngtree.com/thumb_back/fw800/background/20190220/ourmid/pngtree-summer-summer-tour-travel-abroad-european-tour-image_8752.jpg)
+![logo_GlicoCare](https://img.freepik.com/fotos-gratis/retrato-de-grupo-de-filhotes-adoraveis_53876-64778.jpg?w=2000)
 
 <hr>
 
@@ -29,11 +29,9 @@
 ## Descrição do projeto 
 
 <p align="justify">
-De acordo com uma pesquisa pelo Ministério do Turismo brasileiro, 44,4% dos brasileiros nunca viajaram a turismo pelo Brasil. A outra metade de 49,4% viaja com a periodicidade de uma vez por ano. Os felizardos no caso (13,8%) são aqueles que disseram que viajam uma vez a cada seis meses. Agora se você se assustou com os números nacionais, os de viagens internacionais são ainda mais alarmantes.
-  
-Como podemos observar, há muitas pessoas que nem se quer pisaram em um aeroporto na sua vida, então pensamos em ajuda-las com um site que dê todo o apoio para elas dar seus primeiros passos nesse universo das viagens e também para aqueles que já viajar pelo mundo! 
+---
 
-![Descrição do projeto](https://menezesturismo.com.br/wp-content/uploads/2018/10/banner-c.jpg)
+![Descrição do projeto](https://media.istockphoto.com/photos/dogs-and-cats-peeking-over-web-banner-picture-id930281684?k=20&m=930281684&s=170667a&w=0&h=MHP-Pcx40zgXBkJsLFwaUkmk3ZPmCvCEegTZQyAJQRU=)
 </p>
 
 ## Funcionalidades
