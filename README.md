@@ -78,4 +78,4 @@ O `Visual Studio Code` deve carregar o projeto, aguarde até finalizar. Ao final
 | [<img src="https://avatars.githubusercontent.com/u/114267498?v=4" width=115><br><sub>Micael Rodrigues</sub>](https://github.com/micael-rodrigues) |  [<img src="https://avatars.githubusercontent.com/u/81538817?v=4" width=115><br><sub>Jamily Santiago</sub>](https://github.com/jamilysantiago) |  [<img src="https://avatars.githubusercontent.com/u/81435303?v=4" width=115><br><sub>Viviane Magalhães</sub>](https://github.com/Viviane-Valente) | [<img src="https://avatars.githubusercontent.com/u/89037582?v=4" width=115><br><sub>José Eleilton</sub>](https://github.com/nilton404) | [<img src="https://avatars.githubusercontent.com/u/112650636?v=4" width=115><br><sub>Wanyo Castelo</sub>](https://github.com/WanyoPR)
 |:---: | :---: | :---: | :---: | :---: 
 
-![Foto_final]()
+
