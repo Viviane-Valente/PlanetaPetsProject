@@ -1,0 +1,11 @@
+Hoje foi realizado uma discussão como será o processo de organização e desenvolvimento do projeto na segunda etapa:
+
+A cada semana a equipe Full Stack apresentar uma base estrutural de uma das páginas do site, logo após a dupla de design vai ter uma semana para otimizar e finalizar a página apresentada anteriormente pela a equipe Full Stack. Sendo assim, a cada 15 dias já temos uma das páginas do site pronta.
+
+📌 Para a próxima reunião:
+
+— A dupla de Design:
+🔹 Paleta de cor e fontes definida para ser usada no site.
+
+— A dupla de Back:
+🔹 Estrutura da tela de login e cadastro.

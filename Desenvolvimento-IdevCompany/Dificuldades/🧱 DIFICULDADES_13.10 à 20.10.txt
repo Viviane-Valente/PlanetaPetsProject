@@ -1,0 +1,5 @@
+Hoje (20/10) foi apresentada a nova versão do projeto em sala, essa mudança repentina e drástica foi 
+devido à falta de conhecimento de rotas em React, pois a primeira versão do projeto foi configurada 
+sem rotas em uma única página, quando foi necessária e implementação das rotas tivemos muitas 
+dificuldades de código e estrutura, acabando restruturando um novo projeto já implementado as 
+rotas e modificando o layout do mesmo.
