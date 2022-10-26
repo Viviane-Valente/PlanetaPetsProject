@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 import {FaBars, FaTimes} from 'react-icons/fa'
 import './NavbarStyles.css'
-import logo from '../assets/Logo.png'
+import logo from '../../assets/img/Logo.png'
 
 const Navbar = () => {
     const[click, setClick] = useState(false)
@@ -27,13 +27,13 @@ const Navbar = () => {
                    <Link to='/'>Home</Link>
                </li>
                <li>
-                   <Link to='/pricing'>Destaques</Link>
+                   <Link to='/'>Destaques</Link>
                </li>
                <li>
-                   <Link to='/training'>Adote</Link>
+                   <Link to='/adote'>Adote</Link>
                </li>
                <li>
-                   <Link to='/contact'>Login</Link>
+                   <Link to='/login'>Login</Link>
                </li>
            </ul>
            <div className='hamburger' onClick={handleClick}>

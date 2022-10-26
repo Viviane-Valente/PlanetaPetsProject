@@ -1,7 +1,7 @@
 import React from 'react'
 import './FooterStyles.css'
 import { FaGithub } from 'react-icons/fa'
-import logo from '../assets/Logo.png'
+import logo from '../../assets/img/Logo.png'
 import {Link} from 'react-router-dom'
 
 const Footer = () => {

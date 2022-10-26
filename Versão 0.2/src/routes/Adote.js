@@ -1,18 +1,18 @@
 import React from 'react'
 import Footer from '../components/Footer'
 import HeroImage from '../components/HeroImage'
-import Navbar from '../components/Navbar'
-import TrainingSection from '../components/Training'
+import AdoteSection from '../components/Adote'
+import NavBar from '../components/NavBar'
 
-const Training = () => {
+const Adote = () => {
     return (
         <div>
-            <Navbar />
+            <NavBar />
             <HeroImage heading='TRAINING.' text='Pre-Flight & In-Flight Training.' />
-            <TrainingSection />
+            <AdoteSection />
             <Footer />
         </div>
     )
 }
 
-export default Training
+export default Adote

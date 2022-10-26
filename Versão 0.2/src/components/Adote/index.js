@@ -1,10 +1,10 @@
 import React from 'react'
-import './TrainingStyles.css'
+import './AdoteStyles.css'
 
 import {Link} from 'react-router-dom'
 
-import Pod from '../assets/pod.jpg'
-import Moon from '../assets/moon.jpg'
+import Pod from '../../assets/img/pod.jpg'
+import Moon from '../../assets/img/moon.jpg'
 
 const Training = () => {
     return (
