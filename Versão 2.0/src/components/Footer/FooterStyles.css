@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Outfit:wght@100;300;400;500;600;700;800&display=swap');
+
+
+.footer {
+    width: 100%;
+    height:100%;
+    padding: 0rem 0;
+    background: #02020231;
+    margin-top: 100px;
+}
+
+
+.logo {
+    max-width: 30%;  
+    height: auto;  
+    display: block;
+    
+}
+
+
+#socialmedia {
+    padding: 0.5rem;
+    color: rgba(0, 0, 0, 0);
+    
+}
+
+.footer-container {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1px;
+}
+
+.footer .left {
+    height: 100%;
+    max-width: 100%;
+    place-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+} 
+
+.footer .right {
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: auto;
+}
+
+.footer h4 {
+    font-size: 1.8rem;
+    padding: 0.2rem 0 0 0;
+    font-family: 'Outfit', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    text-shadow: 2px 2px 4px #00000017;
+}
+
+.footer p {
+    font-size: 1.3rem;
+    padding: 0rem 0;
+    text-shadow: 2px 2px 4px #0000001a;
+    font-family: 'Outfit', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    
+}
+
+.footer span{
+    color: rgba(255, 255, 255, 0.651);
+}
+
+
+.footer .location {
+    display: flex;
+    align-items: center;
+}
+
+.footer .location p {
+    padding-bottom: .5rem;
+}
+
+.footer .location h4 {
+    padding-top: 0;
+}
+
+@media screen and (max-width:640px) {
+    .footer-container {
+        grid-template-columns: 1fr;
+    }
+
+    .right .social {
+        margin: auto;
+    }
+}

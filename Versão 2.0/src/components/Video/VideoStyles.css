@@ -1,0 +1,81 @@
+@keyframes myAnim {
+	0% {
+		opacity: 0;
+		transform: translateY(250px);
+	}
+
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+#video {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.hero {
+    height: 100vh;
+    width: 100%;
+    object-fit: contain;
+}
+
+.hero .content-video {
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    top: 40vh;
+    animation: myAnim 2s ease 0s 1 normal forwards;
+}
+
+.hero .btns{
+    animation: myAnim 4s ease 0s 1 normal forwards;
+}
+
+.hero .content-video h1 {
+    font-size: 4rem;
+    color: #fff;
+    text-shadow: 2px 2px 4px #00000081;
+}
+
+.hero p {
+    font-size: 1.8rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 1.6rem;
+    color: #fff;
+    text-shadow: 2px 2px 3px #0000003f;
+}
+
+.hero .btn {
+    margin: 1rem .2rem;
+    border-radius: 12px;
+}
+
+@media screen and (max-width:640px) {
+    .content-video h1 {
+        font-size: 3rem;
+    }
+
+    .content-video p {
+        font-size: 1.4rem;
+        margin-bottom: 1.6rem;
+        
+    }
+}
+
+
+
+
+
+
+
+
+
+
